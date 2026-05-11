@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ayee-surey-bohudurey/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ayee Surey Bohudurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ayee-surey-bohudurey/) |
+| **Get License** | [License this song: Ayee Surey Bohudurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ayee-surey-bohudurey/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `982ddef65e0cc62290ea175174238ba8e1c1312f2bc59a944fdf032f0de90bf5` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

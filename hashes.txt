@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ayee Surey Bohudurey
+
+This log tracks the cryptographic history and versioning for the song **Ayee Surey Bohudurey** (ayee-surey-bohudurey).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T10:34:28.893418 | `v1` | `982ddef65e0cc62290ea175174238ba8e1c1312f2bc59a944fdf032f0de90bf5` | `794705ff926a7d68af66c0b6a637a8ac8c680fb8ae724379905ccd293d7d3b4a` | `2026-05-11_ayee-surey-bohudurey-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
