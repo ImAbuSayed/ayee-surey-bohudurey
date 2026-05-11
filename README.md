@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ayee-surey-bohudurey/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ayee Surey Bohudurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ayee-surey-bohudurey/) |
+| **Get License** | [Get a Licensing Quote for Ayee Surey Bohudurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ayee-surey-bohudurey/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক ঘোরের মাঝে আমি হারিয়ে যাই.. হারিয়ে যাই..
+> রাতের ওই তারার বুকে শুধু তোমাকে চাই.. তোমাকে চাই..
+> নীলচে মেঘের ওপারে খোঁজে আমার এই প্রাণ
+> অজান্তেই গাইতে থাকি তোমার প্রেমের গান
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
